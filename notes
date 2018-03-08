@@ -2,6 +2,7 @@ Datasets:
 
 Reddit: comments are available compressed at https://files.pushshift.io/reddit/submissions/
 * e.g. Jan 2018 is 2Gb large
+* in python, you'll need to "pip install backports.lzma"
 
 
 Jonathan Albright's trolls:
