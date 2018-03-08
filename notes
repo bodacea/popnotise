@@ -1,0 +1,20 @@
+Datasets:
+
+Reddit: comments are available compressed at https://files.pushshift.io/reddit/submissions/
+* e.g. Jan 2018 is 2Gb large
+
+
+Jonathan Albright's trolls:
+* medium: https://medium.com/@d1gi
+* Youtube dataset https://data.world/d1gi/youtube-crisis-actor-search-and-recommendation-network
+* Congress FB trolls dataset:
+
+Steve Krausers bots
+* https://data.world/drstevekramer/social-media-bot-detection-by-paragon-science
+* https://hackernoon.com/how-bots-and-cyborgs-spread-misinformation-a-data-scientist-finds-72-000-000-tweets-by-5-000-fa6f28ba0649
+
+NBC twitter dataset (congress trolls)
+* https://www.nbcnews.com/tech/social-media/now-available-more-200-000-deleted-russian-troll-tweets-n844731
+* https://www.nytimes.com/2017/11/12/technology/social-media-disinformation.html
+
+SJ: think about where else data is likely to appear, what the research questions should be, and what effect-data etc we should be looking for.
