@@ -1,0 +1,11 @@
+# scraping facebook
+
+Get Facebook access token from https://developers.facebook.com/tools/explorer/
+
+Access tokens come in different flavours: the main ones used here are page access tokens.
+
+Using the facepy library: see https://pypi.python.org/pypi/facepy/1.0.8 and http://facepy.readthedocs.io/en/latest/
+
+Search in facepy was deprecated... you can use requests.get with https://graph.facebook.com/v1.0/search?q=search_query&type=post&access_token={access_token} to get data; looking for a clean alternative to that... 
+
+Looking at facepy alternatives, e.g. https://gist.github.com/kstohr/6f57832c6ba16a34816d03fd11769f87
