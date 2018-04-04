@@ -8,4 +8,6 @@ Using the facepy library: see https://pypi.python.org/pypi/facepy/1.0.8 and http
 
 Search in facepy was deprecated... you can use requests.get with https://graph.facebook.com/v1.0/search?q=search_query&type=post&access_token={access_token} to get data; looking for a clean alternative to that... 
 
-Looking at facepy alternatives, e.g. https://gist.github.com/kstohr/6f57832c6ba16a34816d03fd11769f87
+Looking at facepy alternatives, e.g. 
+https://gist.github.com/kstohr/6f57832c6ba16a34816d03fd11769f87
+https://gist.github.com/jkuruzovich/b8485a368f80a3b88df46326cf54bbce
